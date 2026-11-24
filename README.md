@@ -1,4 +1,4 @@
-# CodeAlpha_TranslationTool
+# TranslationTool
 
 Language Translation Tool built for the CodeAlpha AI Internship (Task 1).
 
