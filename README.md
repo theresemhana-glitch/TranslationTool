@@ -1,6 +1,6 @@
 # TranslationTool
 
-Language Translation Tool built for the CodeAlpha AI Internship (Task 1).
+
 
 ## Features
 - Enter text and choose source and target languages
